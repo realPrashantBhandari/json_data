@@ -1,0 +1,16 @@
+{  
+    "degreeData": [
+        {
+            "School": "Florida Tech",
+            "Major": "Electrical Engineering",
+            "Type": "BA",
+            "YearComp": "May 2020"
+        },
+        {
+            "School": "Boston University",
+            "Major": "SOftware Development",
+            "Type": "MA",
+            "YearComp": "May 202"
+        }
+    ]
+}  
